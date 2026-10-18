@@ -4,8 +4,8 @@
 
 - [在线打开 / 安装到设备](https://xinshuo-public-test.mutong2026.chatgpt.site/download)
 - [直接阅读](https://xinshuo-public-test.mutong2026.chatgpt.site/)
-- [下载电脑离线包（16.5 MB，需要 Node.js 24）](https://github.com/yydxnlcz-maker/xinshuo-downloads/releases/download/v0.1.0-test.1/xinshuo-public-test-2026-10-18.zip)
-- [本版文件与校验码](https://github.com/yydxnlcz-maker/xinshuo-downloads/releases/tag/v0.1.0-test.1)
+- [下载电脑离线包（16.5 MB，需要 Node.js 24）](https://github.com/yydxnlcz-maker/xinshuo-downloads/releases/download/v0.1.0-test.2/xinshuo-public-test-2026-10-18.zip)
+- [本版文件与校验码](https://github.com/yydxnlcz-maker/xinshuo-downloads/releases/tag/v0.1.0-test.2)
 
 电脑 Chrome/Edge：地址栏或菜单中选择安装。安卓 Chrome：安装应用 / 添加到主屏幕。iPhone Safari：分享 → 添加到主屏幕，若有选项，保持“作为网页 App 打开”。安装后请从图标重新打开，再保存离线精选与音乐。
 
@@ -30,6 +30,6 @@ Mac 当前环境、Chrome 和 WebKit 进行技术测试；Windows 脚本未在 W
 
 ## 文件完整性
 
-SHA-256（ZIP）：`c6325c5c9389d4ab9df4236bfd4127886d12f3c4e64795180a0f40eb99551918`
+SHA-256（ZIP）：`d6c4564f8ace87ad447a4b5643090615ac445fa87be2b51274432216f5a14022`
 
-[下载校验文件](https://github.com/yydxnlcz-maker/xinshuo-downloads/releases/download/v0.1.0-test.1/xinshuo-public-test-2026-10-18.zip.sha256)。校验码用于检查下载完整性，不是原生应用签名。
+[下载校验文件](https://github.com/yydxnlcz-maker/xinshuo-downloads/releases/download/v0.1.0-test.2/xinshuo-public-test-2026-10-18.zip.sha256)。校验码用于检查下载完整性，不是原生应用签名。
