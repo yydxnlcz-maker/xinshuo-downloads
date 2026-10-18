@@ -30,6 +30,6 @@ Mac 当前环境、Chrome 和 WebKit 进行技术测试；Windows 脚本未在 W
 
 ## 文件完整性
 
-SHA-256（ZIP）：`5a76914c43e470516abe1571c18737397c9e2d03538f00c9bcfc732aa0659f6d`
+SHA-256（ZIP）：`c6325c5c9389d4ab9df4236bfd4127886d12f3c4e64795180a0f40eb99551918`
 
 [下载校验文件](https://github.com/yydxnlcz-maker/xinshuo-downloads/releases/download/v0.1.0-test.1/xinshuo-public-test-2026-10-18.zip.sha256)。校验码用于检查下载完整性，不是原生应用签名。
